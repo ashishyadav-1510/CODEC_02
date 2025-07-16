@@ -99,7 +99,7 @@ id	headline	scraped_at
 ![image](https://github.com/ashishyadav-1510/CODEC_02/blob/main/Screenshot/Screenshot%202025-07-16%20115757.png?raw=true)
 
 ## Video
-[Video on YouTube]()
+[Video on YouTube](https://youtu.be/YFAYjP_Q2YE)
 
 ## Explaination
 🔹 main.py — Manual Scraping with Selenium
